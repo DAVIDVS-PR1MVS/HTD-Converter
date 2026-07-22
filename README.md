@@ -1,2 +1,11 @@
 # HTD-Converter
-Um tradutor de Hexadecimal para decimal/Texto e vici versa. Roda diretamente no CMD, com planos futuros para uma interface própria 
+Um conversor que tem como opções:
+
+Hexadecimal para texto
+Texto para hexadecimal 
+Hexadecimal para decimal
+Decimal para hexadecimal 
+
+# Planos Futuros
+
+criar uma interface gráfica própria para uma "formalização do uso".
